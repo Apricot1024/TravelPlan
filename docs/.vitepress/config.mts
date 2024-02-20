@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/TravelPlan/",
   title: "My Travel Plan",
   description: "Info Publish & Update",
   themeConfig: {

@@ -1,0 +1,1 @@
+import{_ as e,c as l,o as i,a2 as a}from"./chunks/framework.CBOTroAR.js";const f=JSON.parse('{"title":"没玩上","description":"","frontmatter":{},"headers":[],"relativePath":"noplaces.md","filePath":"noplaces.md"}'),t={name:"noplaces.md"},o=a("",2),s=[o];function _(c,n,r,d,p,h){return i(),l("div",null,s)}const u=e(t,[["render",_]]);export{f as __pageData,u as default};

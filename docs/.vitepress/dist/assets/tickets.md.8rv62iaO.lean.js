@@ -1,0 +1,1 @@
+import{_ as a,c as l,o as i,a2 as e}from"./chunks/framework.CBOTroAR.js";const f=JSON.parse('{"title":"买票/预约","description":"","frontmatter":{},"headers":[],"relativePath":"tickets.md","filePath":"tickets.md"}'),t={name:"tickets.md"},r=e("",13),o=[r];function h(n,s,c,d,_,u){return i(),l("div",null,o)}const b=a(t,[["render",h]]);export{f as __pageData,b as default};

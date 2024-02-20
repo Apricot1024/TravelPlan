@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as r,a2 as o}from"./chunks/framework.CBOTroAR.js";const p=JSON.parse('{"title":"240225","description":"","frontmatter":{},"headers":[],"relativePath":"20240225.md","filePath":"20240225.md"}'),e={name:"20240225.md"},n=o("",30),l=[n];function s(i,h,_,d,c,g){return r(),t("div",null,l)}const b=a(e,[["render",s]]);export{p as __pageData,b as default};
